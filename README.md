@@ -23,11 +23,11 @@
 
 1. 프로젝트를 클론합니다.
    ```sh
-   git clone https://github.com/yehoonn/vanilla-js-spa.git
+   git clone https://github.com/Yehoonn/Vanilla_SPA.git
    ```
 2. 프로젝트 폴더로 이동합니다.
    ```sh
-   cd vanilla-js-spa
+   cd Vanilla_SPA
    ```
 3. 브라우저에서 `index.html` 파일을 실행합니다.
    - Live Server를 사용하면 편리합니다.
